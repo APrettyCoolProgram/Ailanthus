@@ -26,7 +26,7 @@
 
 <table>
   <tr>
-    <td img src="repodata/img/spacer.png" alt="blank-spacer" width="800" height="1">
+  <td img src="repodata/img/spacer.png" alt="blank-spacer" width="800" height="1">
 
       ### CONTENTS
       [**ABOUT**](#about-crispydeven)<br>
@@ -35,7 +35,7 @@
       [**INSTALLING**](#installation)<br>
       [**USAGE**](#usage)<br>
 
-    </td>
+  </td>
   </tr>
 </table>
 
