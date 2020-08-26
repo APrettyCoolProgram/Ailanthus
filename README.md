@@ -25,18 +25,18 @@
 </h2>
 
 <table>
-  <tr>
-  <td img src="repodata/img/spacer.png" alt="blank-spacer" width="800" height="1">
+<tr>
+<td img src="repodata/img/spacer.png" alt="blank-spacer" width="800" height="1">
 
-      ### CONTENTS
-      [**ABOUT**](#about-crispydeven)<br>
-      [**GETTING STARTED**](#getting-started)<br>
-      &nbsp;&nbsp;&nbsp;&nbsp;[Before you begin](#before-you-begin)<br>
-      [**INSTALLING**](#installation)<br>
-      [**USAGE**](#usage)<br>
+  ### CONTENTS
+  [**ABOUT**](#about-crispydeven)<br>
+  [**GETTING STARTED**](#getting-started)<br>
+  &nbsp;&nbsp;&nbsp;&nbsp;[Before you begin](#before-you-begin)<br>
+  [**INSTALLING**](#installation)<br>
+  [**USAGE**](#usage)<br>
 
-  </td>
-  </tr>
+</td>
+</tr>
 </table>
 
 # ABOUT
