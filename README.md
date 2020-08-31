@@ -35,7 +35,7 @@
   [**GETTING STARTED**](#getting-started)<br>
   &nbsp;&nbsp;&nbsp;&nbsp;[Before you begin](#before-you-begin)<br>
   [**INSTALLING**](#installation)<br>
-  [**USAGE**](#usage)<br>
+  [**USAGE**](#usage)
 
 <br>
 
