@@ -37,20 +37,6 @@
 
 </h2>
 <br>
-<table>
-<tr>
-<td img src="repodata/img/spacer.png" alt="blank-spacer" width="800" height="1">
-
-  ### CONTENTS
-  [**ABOUT**](#about-crispydeven)<br>
-  [**GETTING STARTED**](#getting-started)<br>
-  &nbsp;&nbsp;&nbsp;&nbsp;[Before you begin](#before-you-begin)<br>
-  [**INSTALLING**](#installation)<br>
-  [**USAGE**](#usage)<br>
-
-</td>
-</tr>
-</table>
 
 # ABOUT
 Ailanthus creates songs and poems, leaning towards a Black Metal style, out of Magic: the Gathering cards (or, expermimentally, Wikipedia articles).
