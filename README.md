@@ -31,7 +31,8 @@
  
   </div>
 
-  <!-- <div align="left">
+  <!-- <div align="left">-->
+</h2>
 
   ### CONTENTS
   [**ABOUT**](#about-crispydeven)<br>
@@ -40,7 +41,7 @@
   [**INSTALLING**](#installation)<br>
   [**USAGE**](#usage)<br>
 
-  </div>
+   <!--</div>
   <-->
 </h2>
 <br>
