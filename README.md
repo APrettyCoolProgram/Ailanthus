@@ -33,7 +33,7 @@
 
   <div align="left">
 
-  CONTENTS
+  ### CONTENTS
   [**ABOUT**](#about-crispydeven)<br>
   [**GETTING STARTED**](#getting-started)<br>
   &nbsp;&nbsp;&nbsp;&nbsp;[Before you begin](#before-you-begin)<br>
