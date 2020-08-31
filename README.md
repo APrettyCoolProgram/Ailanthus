@@ -13,6 +13,7 @@
 
 <h2 align="center">
   <br>
+  <img src="https://github.com/APrettyCoolProgram/crispybox/blob/master/repository-resource/image/logo/crispybox-logo-100x100.png" alt="CrispyBox" width="100">
   Ailanthus
   <br>
 </h2>
