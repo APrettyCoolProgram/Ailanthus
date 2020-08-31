@@ -31,7 +31,7 @@
  
   </div>
 
-  <div align="left">
+  <!-- <div align="left">
 
   ### CONTENTS
   [**ABOUT**](#about-crispydeven)<br>
@@ -41,6 +41,7 @@
   [**USAGE**](#usage)<br>
 
   </div>
+  <-->
 </h2>
 <br>
 
