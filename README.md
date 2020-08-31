@@ -28,7 +28,7 @@
   ![Status](https://img.shields.io/badge/status-archived-red.svg)
   [![License](https://img.shields.io/github/license/aprettycoolprogram/ailanthus)](https://www.apache.org/licenses/LICENSE-2.0)
 
-  CONTENTS
+  #### CONTENTS
   [**ABOUT**](#about-crispydeven)<br>
   [**GETTING STARTED**](#getting-started)<br>
   &nbsp;&nbsp;&nbsp;&nbsp;[Before you begin](#before-you-begin)<br>
