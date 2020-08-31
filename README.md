@@ -13,7 +13,7 @@
 
 <h2 align="center">
   <br>
-  <img src="https://github.com/APrettyCoolProgram/crispybox/blob/master/repository-resource/image/logo/crispybox-logo-100x100.png" alt="CrispyBox" width="100">
+  <img src="https://github.com/APrettyCoolProgram/ailanthus/blob/master/repodata/img/ailanthus-logo-128x128.png" alt="Ailanthus" width="128">
   Ailanthus
   <br>
 </h2>
