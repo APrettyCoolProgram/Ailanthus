@@ -12,10 +12,11 @@
 ***
 
 <h2 align="center">
+  Ailanthus
   <br>
   <img src="https://github.com/APrettyCoolProgram/ailanthus/blob/master/repodata/img/ailanthus-logo-128x128.png" alt="Ailanthus" width="128">
   <br>
-  Ailanthus
+  <h4>Create songs and poems using random information pulled from the internet, mostly Magic: the Gathering cards</h4>
   <br>
 </h2>
 
