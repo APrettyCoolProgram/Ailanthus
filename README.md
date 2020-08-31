@@ -20,12 +20,20 @@
   <br>
   Create songs and poems using Magic: the Gathering cards
   <br>
+  <br>
 </h2>
 
 <h2 align="center">
 
   ![Status](https://img.shields.io/badge/status-archived-red.svg)
   [![License](https://img.shields.io/github/license/aprettycoolprogram/ailanthus)](https://www.apache.org/licenses/LICENSE-2.0)
+
+  ### CONTENTS
+  [**ABOUT**](#about-crispydeven)<br>
+  [**GETTING STARTED**](#getting-started)<br>
+  &nbsp;&nbsp;&nbsp;&nbsp;[Before you begin](#before-you-begin)<br>
+  [**INSTALLING**](#installation)<br>
+  [**USAGE**](#usage)<br>
 
 </h2>
 <br>
