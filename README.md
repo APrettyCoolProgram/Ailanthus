@@ -16,7 +16,7 @@
   <br>
   <img src="https://github.com/APrettyCoolProgram/ailanthus/blob/master/repodata/img/ailanthus-logo-128x128.png" alt="Ailanthus" width="128">
   <br>
-  <h4>Create songs and poems using random information pulled from the internet, mostly Magic: the Gathering cards</h4>
+  Create songs and poems using Magic: the Gathering cards
   <br>
 </h2>
 
