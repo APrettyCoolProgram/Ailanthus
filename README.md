@@ -32,7 +32,6 @@
   </div>
 
   <!-- <div align="left">-->
-</h2>
 
   ### CONTENTS
   [**ABOUT**](#about-crispydeven)<br>
