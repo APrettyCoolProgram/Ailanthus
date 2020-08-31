@@ -18,6 +18,7 @@
   <br>
   Create songs and poems using Magic: the Gathering cards
   <br>
+  <br>
 </h2>
 
 <div align="center">
