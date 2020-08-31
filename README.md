@@ -14,10 +14,11 @@
 <h2 align="center">
   Ailanthus
   <br>
+  <br>
   <img src="https://github.com/APrettyCoolProgram/ailanthus/blob/master/repodata/img/ailanthus-logo-128x128.png" alt="Ailanthus" width="128">
   <br>
-  Create songs and poems using Magic: the Gathering cards
   <br>
+  Create songs and poems using Magic: the Gathering cards
   <br>
 </h2>
 
