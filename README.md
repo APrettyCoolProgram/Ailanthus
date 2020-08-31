@@ -11,20 +11,20 @@
 
 ***
 
-<h2 align="center">
+<h4 align="center">
   <br>
   <img src="https://github.com/APrettyCoolProgram/ailanthus/blob/master/repodata/img/ailanthus-logo-128x128.png" alt="Ailanthus" width="128">
   <br>
   Ailanthus
   <br>
-</h2>
+</h4>
 
-<h4 align="center">
+<h2 align="center">
 
   ![Status](https://img.shields.io/badge/status-archived-red.svg)
   [![License](https://img.shields.io/github/license/aprettycoolprogram/ailanthus)](https://www.apache.org/licenses/LICENSE-2.0)
 
-</h4>
+</h2>
 
 <table>
 <tr>
