@@ -20,13 +20,12 @@
 </h2>
 
 <div align="center">
-  <br>
 
   ![Status](https://img.shields.io/badge/status-archived-red.svg)
   [![License](https://img.shields.io/github/license/aprettycoolprogram/ailanthus)](https://www.apache.org/licenses/LICENSE-2.0)
 
 </div>
-
+<br>
 <table>
 <tr>
 <td img src="repodata/img/spacer.png" alt="blank-spacer" width="800" height="1">
