@@ -1,5 +1,0 @@
-    // Collections of things we want to check for.
-    string[] excludedSets = new string[] { "Unglued", "Unhinged" };                              // Don't use cards from these sets.
-    string[] excludedTypes = new string[] { "Mountain", "Forest", "Island", "Swamp", "Plains" }; // Don't use cards of these types.
-    string[] specialPunctuation = new string[] { "of", "'", ",", "the" };                        // Cards with these are special.
-    string[] keepUppercase = new string[] { "Legendary", "Planeswalker" };                       // These types of cards remain capitalized.

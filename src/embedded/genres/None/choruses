@@ -1,9 +1,0 @@
-﻿threshold=20
-maxChoruses=-
-minLines=3
-maxLines=7
-endLinesExclaimed=false
-endBlockExclaimed=false
-endBlockCapitalized=false
-endWithChorus=false
-disableChoruses=false
