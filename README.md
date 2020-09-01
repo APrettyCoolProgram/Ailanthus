@@ -30,6 +30,11 @@
  
 </h2>
 
+<!-- The HTML indentations have to stay this way to work. -->
+<table>
+<tr>
+<td img src="repodata/img/spacer.png" alt="blank-spacer" width="1000" height="1">
+
   ### CONTENTS
   [**ABOUT**](#about-crispydeven)<br>
   [**GETTING STARTED**](#getting-started)<br>
@@ -37,7 +42,9 @@
   [**INSTALLING**](#installation)<br>
   [**USAGE**](#usage)
 
-<h1></h1>
+</td>
+</tr>
+</table>
 
 # ABOUT
 Ailanthus creates songs and poems, leaning towards a Black Metal style, out of Magic: the Gathering cards (or, expermimentally, Wikipedia articles).
