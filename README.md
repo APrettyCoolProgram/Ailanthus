@@ -9,12 +9,7 @@
 
 <h3 align="center">
   THIS REPOSITORY HAS BEEN ARCHIVED
-  THIS REPOSITORY HAS BEEN DEPRECIATED
 </h3>
-
-<h4 align="center">
-  Development is continuing at [repository-name](repository-url).
-</h4>
 
 ***
 
