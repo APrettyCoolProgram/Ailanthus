@@ -24,6 +24,7 @@
 </h2>
 
 <h6 align="center">
+
   ![Status](https://img.shields.io/badge/status-archived-red.svg)
   [![License](https://img.shields.io/github/license/aprettycoolprogram/ailanthus)](https://www.apache.org/licenses/LICENSE-2.0)
  
