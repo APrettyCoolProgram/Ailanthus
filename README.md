@@ -37,7 +37,7 @@
   [**INSTALLING**](#installation)<br>
   [**USAGE**](#usage)
 
-<br>
+<h1></h1>
 
 # ABOUT
 Ailanthus creates songs and poems, leaning towards a Black Metal style, out of Magic: the Gathering cards (or, expermimentally, Wikipedia articles).
