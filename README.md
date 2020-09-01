@@ -6,8 +6,12 @@
 -->
 
 ***
-### THIS REPOSITORY HAS BEEN ARCHIVED
-*Ailanthus* is no longer being developed, and this repository has been archived.
+
+<h3 align="center">
+
+THIS REPOSITORY HAS BEEN ARCHIVED
+ 
+</h3>
 
 ***
 
