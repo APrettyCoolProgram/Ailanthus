@@ -39,11 +39,11 @@
 <!-- The HTML indentations have to stay this way to work. -->
 <table>
 <tr>
-<td img src="repodata/img/spacer.png" alt="blank-spacer" width="1000" height="1" text-align="left">
+<td img src="repodata/img/spacer.png" alt="blank-spacer" width="1000" height="1">
 
   ### CONTENTS
   [ABOUT](#about-crispydeven)<br>
-  <!-- [GETTING STARTED](#getting-started)<br>
+  [GETTING STARTED](#getting-started)<br>
   [INSTALLING](#installing)<br>
   [SETUP](#setup)<br>
   [USAGE](#usage)<br>
@@ -51,7 +51,7 @@
   [TESTING](#testing)<br>
   [API](#api)<br> -->
   [DEVELOPMENT](#development)
-  <!-- [ADDITIONAL INFORMATION](#additional-information)<br> -->
+  [ADDITIONAL INFORMATION](#additional-information)<br>
 
 </td>
 </tr>
