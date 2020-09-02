@@ -1,9 +1,11 @@
 <!--
   Github Repository Template (https://github.com/APrettyCoolProgram/dotfiles-templates-and-gists-etc)
-  Version: Version 20.9.200902.1146
+  Version: Version 20.9.200902.1151
   Authors: development@aprettycoolprogram.com
   Additional documentation: /AppResource/Doc/Proj/
 -->
+
+<!-- 200902.1156 -->
 
 <!-- ARCHIVED/DEPRECIATED/ALPHA/BETA PROJECT BANNER -->
 ***
@@ -35,6 +37,8 @@
   <img src="https://img.shields.io/badge/status-archived-red.svg">&nbsp;[![License](https://img.shields.io/github/license/aprettycoolprogram/ailanthus)](https://www.apache.org/licenses/LICENSE-2.0)
   <br>
 
+</h2>
+
 <!-- REPOSITORY VERTICAL MENU-->
 <!-- The HTML indentations have to stay this way to work. -->
 <table>
@@ -43,7 +47,7 @@
 
   ### CONTENTS
   [ABOUT](#about-crispydeven)<br>
-  [GETTING STARTED](#getting-started)<br>
+  <!-- [GETTING STARTED](#getting-started)<br>
   [INSTALLING](#installing)<br>
   [SETUP](#setup)<br>
   [USAGE](#usage)<br>
@@ -51,7 +55,7 @@
   [TESTING](#testing)<br>
   [API](#api)<br> -->
   [DEVELOPMENT](#development)
-  [ADDITIONAL INFORMATION](#additional-information)<br>
+  <!-- [ADDITIONAL INFORMATION](#additional-information)<br> -->
 
 </td>
 </tr>
